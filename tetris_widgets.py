@@ -22,7 +22,7 @@ class Widgets:
         self.result_info = self.font_2.render(f"{self.score_buffer}", False, (0, 107, 48))
 
         self.vector = []
-        self.block = self.block = pygame.image.load("red_block.png")
+        self.block = self.block = pygame.image.load("textures/red_block.png")
         self.create()
         self.start_btn = pygame.Rect(120, 150, 240, 100)
         self.reset_btn = pygame.Rect(120, 300, 240, 100)
