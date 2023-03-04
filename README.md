@@ -1,1 +1,1 @@
-Tetris game implementation in python using pygame.
+Implementacja gry Teris z użyciem biblioteki pygame.
